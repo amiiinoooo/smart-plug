@@ -33,7 +33,10 @@ Freshman engineering project (ISS196, 2024) at MedTech – South Mediterranean U
 
 IoT · Microcontroller · Sensors · JavaScript · Python · SolidWorks
 
-📄 [Original project proposal](docs/project-proposal.pdf)
+## Slides & reports
+
+- 📊 [Presentation slides](docs/PLUG%20JUICE.pdf)
+- 📄 [Original project proposal](docs/project-proposal.pdf) ([.docx](docs/project-proposal.docx))
 
 ## Team
 
